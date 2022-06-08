@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-culturenuggets-staging-143338-authRole",
+      "UnauthRoleArn": "arn:aws:iam::645387932956:role/amplify-culturenuggets-staging-143338-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::645387932956:role/amplify-culturenuggets-staging-143338-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-culturenuggets-staging-143338-deployment",
+      "UnauthRoleName": "amplify-culturenuggets-staging-143338-unauthRole",
+      "StackName": "amplify-culturenuggets-staging-143338",
+      "StackId": "arn:aws:cloudformation:us-west-1:645387932956:stack/amplify-culturenuggets-staging-143338/fc939270-e737-11ec-86f3-028c1f4ab3d3",
+      "AmplifyAppId": "dxqguanwvlq6p"
+    }
+  }
+}
